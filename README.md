@@ -108,10 +108,6 @@ The report identifies occupancy optimisation and aircraft-specific pricing as im
 
 ![Average Fare by Aircraft](Average%20Fare%20by%20Aircraft.png)
 
-### Revenue by Aircraft
-
-![Revenue by Aircraft](Images/Aircraft_Revenue.png)
-
 ## 📊 Occupancy Analysis
 
 Occupancy rate was calculated by comparing booked seats with the total number of seats available for each aircraft.

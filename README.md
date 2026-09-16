@@ -98,27 +98,36 @@ The report identifies occupancy optimisation and aircraft-specific pricing as im
 
 ### Ticket Bookings Over Time
 
-![Ticket Bookings Over Time](Images/Ticket_Bookings_Over_Time.png)
+![Ticket Bookings Over Time](Ticket%20Bookings%20Over%20Time.png)
 
 ### Revenue Over Time
 
-![Revenue Over Time](Images/Revenue_Over_Time.png)
+![Revenue Over Time](Revenue%20Over%20Time.png)
 
 ### Average Fare by Aircraft
 
-![Average Fare by Aircraft](Images/Fare_by_Aircraft.png)
+![Average Fare by Aircraft](Average%20Fare%20by%20Aircraft.png)
 
 ### Revenue by Aircraft
 
 ![Revenue by Aircraft](Images/Aircraft_Revenue.png)
 
-### Occupancy Rate by Aircraft
+## 📊 Occupancy Analysis
 
-![Occupancy Rate](Images/Occupancy_Rate.png)
+Occupancy rate was calculated by comparing booked seats with the total number of seats available for each aircraft.
 
-### Potential Revenue Impact of Higher Occupancy
+The analysis was used to identify differences in aircraft utilisation and to estimate the potential financial impact of increasing occupancy. :contentReference[oaicite:5]{index=5}
 
-![Revenue Impact](Images/Revenue_Impact_10pct_Occupancy.png)
+A 10% increase in occupancy was also evaluated to estimate its potential impact on annual turnover. :contentReference[oaicite:6]{index=6}
+
+## 💡 Key Findings
+
+- Aircraft vary significantly in seating capacity, ticket volume and revenue generation.
+- Ticket bookings and revenue show similar trends over time.
+- Fare levels differ across aircraft and fare conditions.
+- Business-class fares are generally higher than Economy fares.
+- Occupancy rates differ across aircraft, highlighting potential areas for optimisation.
+- A simulated 10% increase in occupancy was used to estimate the potential improvement in annual turnover.
 
 ## 💡 Business Insight
 
